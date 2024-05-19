@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fLEojclHTDdf3nSxh1vMmr38K+4JWU1CUQLykB2ZoNo=",
+  "Source": "MQTT-Server",
+  "BasePath": "_content/MQTT-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

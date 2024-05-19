@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NdHHRs4+ohH/WRVidMSzgJ/DyhZayvEjQxBpTM24Y4Pnxn9t4rRBnP+LTu1Xeb5BBVrl6fGTh62I+Rv0VJDPNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ana\\source\\repos\\MQTT-Server\\MQTT-Server\\MQTT-Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ana\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\ana\\.nuget\\packages\\mqttnet.aspnetcore\\4.3.3.952\\mqttnet.aspnetcore.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}
