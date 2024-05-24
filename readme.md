@@ -12,7 +12,7 @@ Todo o backend do Broker é desenvolvido em ASP.NET e também existe um Dashboar
 ![alt text for screen readers](/images/montagem.png "Dashboard")
 O resultado deve ser algo como:
 ![alt text for screen readers](/images/montagem-fisica.png "Dashboard")
-É possível ver na mensagem um jumper no sensor MAX30100, isso se deve ao mal funcionamento do sensor no alto nível lógico da ESP, para contornar o problema foi necessário montar o seguinte jumper:
+É possível ver na imagem um jumper no sensor MAX30100, isso se deve ao mau funcionamento do sensor no alto nível lógico da ESP, para contornar o problema foi necessário montar o seguinte jumper:
 ![alt text for screen readers](/images/jumper.png "Dashboard")
 
 
