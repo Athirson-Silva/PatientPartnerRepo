@@ -9,15 +9,15 @@ Todo o backend do Broker é desenvolvido em ASP.NET e também existe um Dashboar
 - Buzzer
 
 ## Esquema da montagem
-![alt text for screen readers](/images/montagem.png "Dashboard")
+![alt text for screen readers](/images/montagem.png "Dashboard")\
 O resultado deve ser algo como:
-![alt text for screen readers](/images/montagem-fisica.png "Dashboard")
+![alt text for screen readers](/images/montagem-fisica.png "Dashboard")\
 É possível ver na imagem um jumper no sensor MAX30100, isso se deve ao mau funcionamento do sensor no alto nível lógico da ESP, para contornar o problema foi necessário montar o seguinte jumper:
 ![alt text for screen readers](/images/jumper.png "Dashboard")
 
 
 ## Funcionamento
-Um computador deve funcionar de servidor e dashboard, rodando as aplicações .NET enquanto a ESP32 será cliente deste servidor, capturará os dados coletados pelo MAX30100, os enviará para o Broker, que por sua vez sala esses dados que posteriormente serão consumidos pelo dashboard:
+Um computador deve funcionar de servidor e dashboard, rodando as aplicações .NET enquanto a ESP32 será cliente deste servidor, capturará os dados coletados pelo MAX30100, os enviará para o Broker, que por sua vez sala esses dados que posteriormente serão consumidos pelo dashboard: <br>
 ![alt text for screen readers](/images/dashboard.png "Dashboard")
 
 ## Configuração
